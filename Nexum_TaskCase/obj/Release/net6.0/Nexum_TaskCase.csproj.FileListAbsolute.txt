@@ -1,0 +1,15 @@
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\Nexum_TaskCase.exe
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\Nexum_TaskCase.deps.json
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\Nexum_TaskCase.runtimeconfig.json
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\Nexum_TaskCase.dll
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\Nexum_TaskCase.pdb
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.csproj.AssemblyReference.cache
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.AssemblyInfoInputs.cache
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.AssemblyInfo.cs
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.csproj.CoreCompileInputs.cache
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.dll
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\refint\Nexum_TaskCase.dll
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.pdb
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\Nexum_TaskCase.genruntimeconfig.cache
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\obj\Release\net6.0\ref\Nexum_TaskCase.dll

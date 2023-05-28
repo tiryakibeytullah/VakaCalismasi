@@ -1,0 +1,5 @@
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\publish\Nexum_TaskCase.exe
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\publish\Nexum_TaskCase.dll
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\publish\Nexum_TaskCase.deps.json
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\publish\Nexum_TaskCase.runtimeconfig.json
+C:\Users\Beytullah\source\repos\Nexum_TaskCase\Nexum_TaskCase\bin\Release\net6.0\publish\Nexum_TaskCase.pdb

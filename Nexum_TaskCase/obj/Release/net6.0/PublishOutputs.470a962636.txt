@@ -1,0 +1,5 @@
+C:\Users\Beytullah\Desktop\Test\Nexum_TaskCase.exe
+C:\Users\Beytullah\Desktop\Test\Nexum_TaskCase.dll
+C:\Users\Beytullah\Desktop\Test\Nexum_TaskCase.deps.json
+C:\Users\Beytullah\Desktop\Test\Nexum_TaskCase.runtimeconfig.json
+C:\Users\Beytullah\Desktop\Test\Nexum_TaskCase.pdb
